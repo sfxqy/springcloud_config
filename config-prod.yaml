@@ -1,2 +1,2 @@
 app:
- info: prod
+  active: prod application yaml
