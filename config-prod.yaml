@@ -1,2 +1,2 @@
 app:
-  active: prod application yaml
+  active: prod application yaml version=1
